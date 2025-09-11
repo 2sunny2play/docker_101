@@ -49,7 +49,8 @@ Du gibst deinem Team ein Image myapp:1.0. Alle starten denselben Container und s
 
 ## Docker-Architektur
 
-![restAPI](../image/restapi.png){width=390px} ![dockerArch](../image/dockerArchitechture.png){width=500px}
+![restAPI](../image/restapi.png) 
+![dockerArch](../image/dockerArchitechture.png)
 
 Client–Server-Modell:
 
